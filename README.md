@@ -1,2 +1,1 @@
-a_non_empty_readme
 updated_readme
